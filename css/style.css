@@ -1,0 +1,161 @@
+
+/* header */
+
+.logo-img{
+    width: 100px;
+}
+.menu ul li a{
+    color: #888888;
+    font-size: 19px;
+}
+
+.discover{
+    background-color: #838fff;
+    color: #fff;
+}
+.banner{
+    background-color: #f9f9ff;
+}
+.banner-img{
+    width: 500px;
+}
+.banner h3{
+    color: #777b81;
+    margin-top: 115px !important;
+}
+.banner p{
+    color: #777b81;
+    font-size: 18px;
+    font-weight: 500;
+}
+.banner h1{
+    color: #4d5157;
+}
+
+.about-img{
+    width: 400px;
+}
+.about h4{
+    color: #777b81;
+}
+.about p{
+    color: #777b81;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+/* Testimony */
+.testimony{
+    background-color: #838fff;
+}
+
+/* Pricing css */
+
+.round{
+    height: 70px;
+    width: 70px;
+}
+
+.pricing{
+    background-color: #f9f9ff;
+}
+.pricing p{
+    line-height: 50px;
+    font-weight: 500;
+    font-size: 17px;
+    color:#787878;
+}
+.head p {
+    margin-top: -20px;
+    line-height: normal;
+    margin-bottom: 37px;
+}
+.pricing .card{
+    border: none;
+}
+.p-btn {
+    border: 2px solid #7487e2;
+    display: inline-block;
+    width: 100px;
+    padding: 10px 20px;
+    box-sizing: content-box;
+    margin: auto;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    transition: .4s;
+    box-shadow: 2px 2px 24px #1323ef2e;
+}
+.p-btn:hover{
+    color: #fff;
+    background-color: #7487e2;
+}
+
+
+/* usser */
+.user{
+    padding-top: 100px;
+}
+.user-content{
+    border-radius: 5px;
+    box-shadow: 4px 4px 20px #ddd;
+    position: relative;
+}
+.user-content img {
+    position: absolute;
+    width: 100px;
+    left: 10px;
+    top: -60px;
+}
+.user h5{
+    font-size: 21px;
+}
+.user h6{
+    font-size: 15px;
+}
+.user p{
+    color: #434649;
+}
+.user-content a{
+    background-color: #f8f9fa;
+    box-shadow: 4px 4px 20px rgb(201, 201, 201);
+    transition: .4s;
+}
+.user-content a:hover{
+    background-color: blue;
+    color: #fff;
+}
+
+
+/* form css */
+
+.form-section{
+    background-color: #f9f9ff;
+}
+.form-section h4{
+    color: #3c3f42;
+}
+.form-body{
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.096);
+}
+.form-text ul{
+    list-style: none;
+    padding-left: 0;
+}
+.form-text ul li{
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+/* footer csss */
+
+footer{
+    background-color: #0c1123;
+}
+
+
+
+
